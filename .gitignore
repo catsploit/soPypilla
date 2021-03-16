@@ -1,0 +1,5 @@
+# driver logs
+*.log
+
+# python cache
+*.pyc
